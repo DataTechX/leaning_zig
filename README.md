@@ -7,10 +7,16 @@
 * แต่หากต้องการใช้ในเชิงลึกกว่านี้ทุกท่านอาจจะต้องอ่าน DOCS 
 * หากท่านมาความรู็ทาง C CPLUS สบายๆ
 
+## เว็บไซต์
 [Ziglang.org](https://ziglang.org/)
 
 [Github](https://github.com/ziglang/zig)
 
+## ติดตั้ง
+
+ * [ดาวน์โหลดไบนารีที่สร้างไว้ล่วงหน้า](https://ziglang.org/download/)
+ * [ตัวจัดการแพ็คเกจ](https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager)
+ 
 ## ตัวอย่างการทำงานคราวๆ
 
 ```zig
